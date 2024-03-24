@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "uart_async_rxtxtasks",
-    "project_version":    "0419483-dirty",
+    "project_version":    "c50b939-dirty",
     "project_path":       "C:/Users/Ugur/Desktop/Bitirme_LoraGateway/uart_async_rxtxtasks",
     "idf_path":           "C:/Users/Ugur/esp/v5.2.1/esp-idf",
     "build_dir":          "C:/Users/Ugur/Desktop/Bitirme_LoraGateway/uart_async_rxtxtasks/build",
@@ -805,7 +805,7 @@
             "managed_reqs": [],
             "managed_priv_reqs": [],
             "file": "C:/Users/Ugur/Desktop/Bitirme_LoraGateway/uart_async_rxtxtasks/build/esp-idf/main/libmain.a",
-            "sources": [ "C:/Users/Ugur/Desktop/Bitirme_LoraGateway/uart_async_rxtxtasks/main/uart_async_rxtxtasks_main.c" ],
+            "sources": [ "C:/Users/Ugur/Desktop/Bitirme_LoraGateway/uart_async_rxtxtasks/main/main.c" ],
             "include_dirs": [ "." ]
         },
         "mbedtls": {
