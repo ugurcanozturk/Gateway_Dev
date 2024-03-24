@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "uart_async_rxtxtasks",
-    "project_version":    "ad9f49d",
+    "project_version":    "0419483-dirty",
     "project_path":       "C:/Users/Ugur/Desktop/Bitirme_LoraGateway/uart_async_rxtxtasks",
     "idf_path":           "C:/Users/Ugur/esp/v5.2.1/esp-idf",
     "build_dir":          "C:/Users/Ugur/Desktop/Bitirme_LoraGateway/uart_async_rxtxtasks/build",
