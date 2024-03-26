@@ -50,7 +50,7 @@ static void tx_task(void *arg)
     static const char *TX_TASK_TAG = "TX_TASK";
     esp_log_level_set(TX_TASK_TAG, ESP_LOG_INFO);
     while (1) {
-        sendData(TX_TASK_TAG, "ugur");
+        sendData(TX_TASK_TAG, "hello world from ugur");
         vTaskDelay(10000 / portTICK_PERIOD_MS);
     }
 }
